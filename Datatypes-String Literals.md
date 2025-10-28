@@ -9,14 +9,11 @@ To write a Python program to read a string from the user and then print it.
 3. Print the value stored in the variable.
 
 ## 🧾 Program
-men_stepped_on_the_moon = input("Enter a string: ")
-print("You entered:", men_stepped_on_the_moon)
-
+men_stepped_on_the_moon=input()  <br />
+print(men_stepped_on_the_moon)
 
 ## Output
-Enter a string: Neil Armstrong was the first man to step on the moon
-
-You entered: Neil Armstrong was the first man to step on the moon
+<img width="840" height="234" alt="image" src="https://github.com/user-attachments/assets/982a3544-f473-46d1-addc-53ef9f2f7973" />
 
 
 ## Result
