@@ -13,7 +13,8 @@ men_stepped_on_the_moon=input()  <br />
 print(men_stepped_on_the_moon)
 
 ## Output
-<img width="840" height="234" alt="image" src="https://github.com/user-attachments/assets/982a3544-f473-46d1-addc-53ef9f2f7973" />
+<img width="1009" height="200" alt="image" src="https://github.com/user-attachments/assets/ea4086af-4db3-475a-854a-63cf89560ad0" />
+
 
 
 ## Result
